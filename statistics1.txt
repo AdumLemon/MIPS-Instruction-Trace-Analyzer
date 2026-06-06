@@ -1,0 +1,42 @@
+insts: 20
+r-type: 13
+i-type: 6
+j-type: 1
+fwd-taken: 0.000000
+bkw-taken: 0.000000
+not-taken: 10.000000
+loads: 10.000000
+stores: 10.000000
+arith: 65.000000
+reg-0: 2 0
+reg-1: 11 1
+reg-2: 9 2
+reg-3: 4 4
+reg-4: 0 3
+reg-5: 0 1
+reg-6: 0 1
+reg-7: 0 0
+reg-8: 0 2
+reg-9: 2 1
+reg-10: 3 0
+reg-11: 1 0
+reg-12: 0 0
+reg-13: 0 0
+reg-14: 0 0
+reg-15: 0 0
+reg-16: 0 0
+reg-17: 0 0
+reg-18: 0 0
+reg-19: 0 0
+reg-20: 0 0
+reg-21: 0 0
+reg-22: 0 0
+reg-23: 0 0
+reg-24: 0 0
+reg-25: 0 0
+reg-26: 0 0
+reg-27: 0 0
+reg-28: 0 0
+reg-29: 0 0
+reg-30: 0 0
+reg-31: 0 0
